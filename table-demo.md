@@ -1,9 +1,5 @@
 ---
 layout: liquid-table
----
-  
----
-layout: liquid-table
 title: 'amiright?'
 reynolds:
   strengths:
@@ -40,4 +36,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </a>
 
 <hr>
-
