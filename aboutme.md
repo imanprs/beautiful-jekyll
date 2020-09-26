@@ -4,7 +4,7 @@ title: About me
 subtitle: Everything you don't really need to know
 ---
 
-My name is Iman Parsa. I have the following qualities:
+Here are a few things about me:
 
 - I live in different time zones at different points in time, without moving.
 - The only thing I don't procrastinate is procrastination.
