@@ -63,7 +63,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that I can follow instruction to do a lab!
 
 # --- General options --- #
 
@@ -73,6 +73,8 @@ share-links-active:
   facebook: true
   linkedin: true
   vk: false
+  github: true
+  email: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
