@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Everything you don't really need to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Iman Parsa. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I live in different time zones at different points in time, without moving.
+- The only thing I don't procrastinate is procrastination.
+- There are a great number of languages I *don't* speak.
+- I have occasionally been called a good cook.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Anything else that you don't need to know?
