@@ -241,7 +241,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size=40px}
 
 .gs-section-02 p {
-     font-size: 25px;
+     font-size: 15px;
      color: #01064f;
 }
 
