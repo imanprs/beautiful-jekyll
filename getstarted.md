@@ -253,7 +253,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-03 p {
      font-size: 12px;
      margin-top: 50px;
-     color: #3abd0b;
+     color: #3a4f32;
 }
 
 </style>
