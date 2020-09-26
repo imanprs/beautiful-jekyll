@@ -237,11 +237,12 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 }
 
 .gs-section-02 h3 { 
-     color: orange;
+     color: #1620a1;
      font-size=40px}
 
 .gs-section-02 p {
-     font-size: 20px;
+     font-size: 25px;
+     color: #01064f;
 }
 
 .gs-section-03 h3 { 
