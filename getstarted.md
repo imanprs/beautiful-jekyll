@@ -238,7 +238,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-02 h3 { 
      color: #1620a1;
-     font-size: 40px;}
+     font-size: 35px;}
 
 .gs-section-02 p {
      font-size: 15px;
@@ -252,7 +252,8 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-03 p {
      font-size: 12px;
-     margin-top: 30px;
+     margin-top: 50px;
+     color: #3abd0b;
 }
 
 </style>
