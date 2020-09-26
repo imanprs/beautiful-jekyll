@@ -9,4 +9,4 @@ Welcome to my lab website, aka my **labsite**.
 Please feel free to navigate the links on the navigation bar above, and contact links below.
 
 
-<sub>As it is a one-time thing, I am not encorporating any blog posts at the moment.<\sub>
+<sub>As it is a one-time thing, I am not encorporating any blog posts at the moment.</sub>
